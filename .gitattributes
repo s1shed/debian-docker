@@ -1,0 +1,2 @@
+lenny.amd64.tar.xz filter=lfs diff=lfs merge=lfs -text
+lenny.i386.tar.xz filter=lfs diff=lfs merge=lfs -text
